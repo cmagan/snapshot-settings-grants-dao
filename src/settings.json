@@ -58,8 +58,7 @@
       "network": "100"
     }
   ],
-  "validation": {}
-  },
+  "validation": {},
   "voteValidation": {
     "name": "any",
     "params": {}
